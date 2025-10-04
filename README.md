@@ -30,9 +30,10 @@ It’s ideal for learners exploring real-world applications of Python in finance
 ## 📸 Demo
 ATM Demo: https://drive.google.com/file/d/1LnOa0frCq2dVZIhyS3BN10b2dmnyaChq/view?usp=drive_link
 
-👩‍💻 Author
-Dhriti
-Python enthusiast exploring automation, chatbot creation, and real-world applications.
+👩‍💻 Author: 
+Dhriti - Python enthusiast exploring automation, chatbot creation, and real-world applications.
+
+Contact:
 📬 LinkedIn : https://www.linkedin.com/in/dhriti-dixit-92aa81320/
 
 
